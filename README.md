@@ -15,7 +15,7 @@ In This CrowdFunding Web App we will allow users to :
 - Show projetcs details and rate projects
 - All users can donate all projects and rate them 
 - User can remove project in case the donation of the project less than 25% of the total
-
+- User Can Add profile picture 
 ## Built With:
 * [Django Framwork]
 * [SQlite Database]
