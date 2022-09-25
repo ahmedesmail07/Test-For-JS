@@ -64,3 +64,4 @@ In This CrowdFunding Web App we will allow users to :
 - Don't Forget To Change My Email & My Pass (2-Auth-KEY) 
 - Note That gstmp feature causes some errors so be carefull while using it for prevent yourself from banned from google 
 - Again please read about gstmp in google documentation
+https://user-images.githubusercontent.com/93608128/192141397-0fcbe8fa-490c-4f47-aba7-6f99d65a6c6e.mp4
