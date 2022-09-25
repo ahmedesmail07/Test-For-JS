@@ -65,8 +65,7 @@ In This CrowdFunding Web App we will allow users to :
 - Note That gstmp feature causes some errors so be carefull while using it for prevent yourself from banned from google 
 - Again please read about gstmp in google documentation
 
-
-- Demo Operations
+## Demo Operations
 
 https://user-images.githubusercontent.com/93608128/192142030-c7ceefc2-8268-4da3-958c-a94e4f96a065.mp4
 
